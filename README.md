@@ -10,7 +10,7 @@ The **Auto Typer App** is a lightweight desktop application that simulates human
 ### 🛠️ **Technologies Used:**
 
 * **Programming Language:** Java
-* **IDE:** Eclipse or IntelliJ IDEA
+* **IDE:** VS Code
 * **Java Version:** JDK 21 (or compatible version)
 * **GUI Framework:** Java Swing (for the interface)
 * **Automation Utility:** `java.awt.Robot` class (for simulating keyboard input)
