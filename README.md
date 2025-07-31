@@ -44,3 +44,4 @@ The **Auto Typer App** is a lightweight desktop application that simulates human
 * Typing practice software simulation
 
 ---
+<img width="645" height="507" alt="image" src="https://github.com/user-attachments/assets/46e1a746-fe60-4a28-b324-ca028a3f7170" />
